@@ -1,4 +1,5 @@
-import React from 'react'
+import Rea
+export default navbarct from 'react'
 
 function navbar() {
   return (
@@ -18,5 +19,3 @@ function navbar() {
     </div>
   )
 }
-
-export default navbar
