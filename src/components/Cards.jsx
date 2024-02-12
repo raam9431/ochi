@@ -12,7 +12,7 @@ function Cards() {
                 <div className="card w-1/2 h-full bg-[#264b46] rounded-xl">
                     <img src="https://ochi.design/wp-content/uploads/2022/04/logo002.svg" alt="" />
                 </div>
-                <div className="card w-1/2 h-full bg-[#264b46] rounded-xl">
+                <div className="card w-1/2 h-full bg-[#264b46] rounded-tr-xl">
                     <img src="https://ochi.design/wp-content/uploads/2022/04/logo003.png" alt="" />
                 </div>
             </div>
