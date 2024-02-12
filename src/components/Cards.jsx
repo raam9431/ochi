@@ -9,7 +9,7 @@ function Cards() {
                 </div>
             </div>
             <div className="cardcontainer flex gap-10 h-[50vh] w-1/2">
-                <div className="card w-1/2 h-full bg-[#264b46] rounded-xl">
+                <div className="card w-1/2 h-full bg-[#264b46] rounded-tl-xl">
                     <img src="https://ochi.design/wp-content/uploads/2022/04/logo002.svg" alt="" />
                 </div>
                 <div className="card w-1/2 h-full bg-[#264b46] rounded-tr-xl">
