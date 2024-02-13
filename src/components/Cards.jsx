@@ -1,4 +1,4 @@
-`import React from 'react'
+import React from 'react'
 
 function Cards() {
     return (
@@ -20,4 +20,4 @@ function Cards() {
     )
 }
 
-export default Cards`
+export default Cards

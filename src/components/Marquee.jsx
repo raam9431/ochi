@@ -1,3 +1,4 @@
+import React from 'react'
 import { motion } from "framer-motion";
 
 function Marquee() {
@@ -10,11 +11,11 @@ function Marquee() {
                 <motion.h1 initial={{ x: 0 }} animate={{ x: "-100%" }} transition={{ ease: "linear", repeat: Infinity, duration: 9 }} className='text-[24vw] leading-none font-["Founders_Grotesk_X-Condensed"] font-semibold uppercase pt-10 m-[2vw]'>
                     We are Ochi
                 </motion.h1>
-               
+
                 <motion.h1 initial={{ x: 0 }} animate={{ x: "-100%" }} transition={{ ease: "linear", repeat: Infinity, duration: 9 }} className='text-[24vw] leading-none font-["Founders_Grotesk_X-Condensed"] font-semibold uppercase pt-10 m-[2vw]'>
                     We are Ochi
                 </motion.h1>
-               
+
             </div>
         </div>
     );
