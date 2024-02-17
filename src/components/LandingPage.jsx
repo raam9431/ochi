@@ -9,13 +9,13 @@ function LandingPage() {
         {["We Create", "Eye Opening", "Presentation"].map((item, index) => {
           return (
             <div className="masker">
-              <div className='w-fit flex items-end'>
+              <div className='w-fit flex items-end '>
                 {index === 1 && (
-                  <div className=' mr-5 mt-6 w-[8vw] rounded-md h-[5.7vw] relative bg-[(")]'>
+                  <div className=' mr-5 mt-6 w-[8vw] rounded-md h-[5.7vw] bg-[url("https://ochi.design/wp-content/uploads/2022/04/content-image01.jpg")]'>
                     <img className='rounded-[5px] overflow-hidden' src="https://ochi.design/wp-content/uploads/2022/04/content-image01.jpg" alt="" />
                   </div>
                 )}
-                <h1 className="uppercase text-[9vw] leading-[.75] font-['Founders_Grotesk_X-Condens'] font-bold" >
+                <h1 className="uppercase text-[9vw] leading-[.75] font-['Founders_Grotesk_X-Condensed'] font-bold" >
                   {item}
                 </h1>
               </div>
