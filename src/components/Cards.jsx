@@ -21,6 +21,8 @@ function Cards() {
                     <button className='absolute left-10 bottom-10 px-5 py-1 rounded-full border-2 border-[#F1F1F1] text-[#F1F1F1] hover:bg-[#F1F1F1] hover:text-[#212121] hover:font-semibold'>
                         Business Bootcamp Alumni
                     </button>
+
+
                 </div>
             </div>
         </div>
